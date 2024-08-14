@@ -14,17 +14,18 @@ SecureHub is a comprehensive password manager app designed to keep your digital 
 - **Password Generator**: Generate strong, random passwords.
 
 ## 📱 Screenshots
-<img src="https://github.com/user-attachments/assets/8cefe58f-5ccc-4e46-a3b3-e24408614419" width="100" height="100">
 
-<img src="https://github.com/user-attachments/assets/c92f2c88-984e-45c4-977c-d0403e030d45" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/6a43789c-0c17-4607-a594-0769152ef377" width="320" height="500">
 
-<img src="https://github.com/user-attachments/assets/3ffb8b20" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/8cefe58f-5ccc-4e46-a3b3-e24408614419" width="320" height="500">
 
-<img src="https://github.com/user-attachments/assets/2031ae1d-8b8b-42d8-a384-f7f640cbec7b" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/c92f2c88-984e-45c4-977c-d0403e030d45" width="320" height="500">
 
-<img src="https://github.com/user-attachments/assets/434eb22f-4805-4218-9bb8-e278d1fcd7ad" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/2031ae1d-8b8b-42d8-a384-f7f640cbec7b"  width="320" height="500">
 
-<img src="https://github.com/user-attachments/assets/f9584030-1b72-440b-a599-0aad89d20871" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/434eb22f-4805-4218-9bb8-e278d1fcd7ad" width="320" height="500">
+
+<img src="https://github.com/user-attachments/assets/f9584030-1b72-440b-a599-0aad89d20871" width="320" height="500">
 
 
 ##  ☎ Contact
